@@ -25,4 +25,4 @@ hit `localhost:8080`
 
 #### Note
 
-This repository is part of a blog post on inversion of control, hence, may not make much sense on its own. You can visit the blog post [here][https://pranjalgore.com/blog/].
+This repository is part of a blog post on inversion of control, hence, may not make much sense on its own. You can visit the blog post https://pranjalgore.com/blog/.
